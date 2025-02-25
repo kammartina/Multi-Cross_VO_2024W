@@ -1,6 +1,6 @@
 # Multilingual and Crosslingual Methods and Language Resources
 
-This respository provides bonus exercises for the lecture Multilingual and Crosslingual Methods and Language Resources in 2024W (University of Vienna). 
+This respository provides bonus exercises for the lecture **Multilingual and Crosslingual Methods and Language Resources in 2024W** (University of Vienna). 
 <br><br>
 
 ***Bonus Exercise 1: Low-Rank Adaptation and Crosslingual Transfer for Linguistic Acceptability***
